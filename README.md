@@ -1,7 +1,7 @@
-#Testing Header 1
-##HEADER FOR CONTENT
+# Testing Header 1
+## HEADER FOR CONTENT
 
-Here is some content that I wanted to add
+**Here is some content that I wanted to add**
 
 1. Yes
 2. No
